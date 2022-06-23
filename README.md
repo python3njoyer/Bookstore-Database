@@ -6,3 +6,5 @@ Program to generate a fictitious dataset of user profiles. Can be used to popula
 - email address
 - password
 - one of four security questions & response
+
+The program can also export the user table to csv for use elsewhere. 
