@@ -9,4 +9,4 @@ Additionally includes a Python script to generate a synthetic dataset of user pr
 - password
 - one of four security questions & response
 
-The program can also export the user table to csv for use elsewhere. 
+The resulting FAKE data can be found in outputs/.
