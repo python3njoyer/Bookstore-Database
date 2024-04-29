@@ -1,6 +1,8 @@
-# Data_Generator
+# Bookstore Database
 
-Program to generate a fictitious dataset of user profiles. Can be used to populate a database with example data without exposing real user data. User attributes were inspired by the Barnes & Noble e-bookstore and include:
+A fictional database for the Barnes & Noble online shop implemented in SQL. 
+
+Additionally includes a Python script to generate a synthetic dataset of user profiles. User attributes were inspired by the Barnes & Noble e-bookstore and include:
 - a unique user ID
 - first & last name
 - email address
